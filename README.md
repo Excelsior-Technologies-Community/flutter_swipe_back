@@ -34,7 +34,7 @@ Add dependency in your pubspec.yaml
 ```
 dependencies:
   flutter_swipe_back:
-    path: ../flutter_swipe_back
+    path: https://github.com/Excelsior-Technologies-Community/flutter_swipe_back/tree/stage
 ```
 Then run:
 ```
